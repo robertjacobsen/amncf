@@ -1,0 +1,8 @@
+## Interface: 30200
+## Title: Amnith's ChatFrames
+## Notes: Decorates the chatframes nicely. 
+## Author: Amnith
+## Version: 1.0
+
+amncf.lua
+
