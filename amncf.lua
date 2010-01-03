@@ -20,8 +20,6 @@ end
  Function MakeFrame 
 -- The function that makes a frame with the given options taken from the arguments
 -- Parameters:
--- width - The width of the frame
--- height - The height of the frame
 -- r - Amount of red in the colour of the frame
 -- g - Amount of green in the colour of the frame
 -- b - Amount of blue in the colour of the frame
